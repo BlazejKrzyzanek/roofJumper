@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\roofJumper\main.cpp(243): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\roofJumper\main.cpp(244): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\roofJumper\main.cpp(248): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\roofJumper\main.cpp(249): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\roofJumper\main.cpp(250): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\roofJumper\main.cpp(251): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\roofJumper\main.cpp(265): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\roofJumper\main.cpp(296): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  roofJumper.vcxproj -> C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\Debug\roofJumper.exe

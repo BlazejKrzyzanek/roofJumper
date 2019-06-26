@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\roofJumper\main.cpp(160): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\roofJumper\main.cpp(161): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\roofJumper\main.cpp(165): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\roofJumper\main.cpp(166): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\roofJumper\main.cpp(167): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\roofJumper\main.cpp(168): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\roofJumper\main.cpp(191): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\roofJumper\main.cpp(207): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+LINK : warning LNK4098: domyślna biblioteka „MSVCRTD” powoduje konflikt z innymi bibliotekami; użyj opcji /NODEFAULTLIB:biblioteka
+  Trwa generowanie kodu
+  1 of 986 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  roofJumper.vcxproj -> C:\dev\workspace\cpp\CG\vs\roof_jumper\roofJumper\Release\roofJumper.exe
